@@ -1,7 +1,7 @@
 # MEPS-HC June 2023 Webinar Series
 
 ## Stata session: Linking Medical Conditions to Prescribed Medicines
-### June 6, 2023
+### June 8, 2023
 
 This repository contains materials for the AHRQ webinar on linking MEPS-HC medical conditions to prescribed medicines using Stata.
 
